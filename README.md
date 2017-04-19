@@ -1,29 +1,47 @@
 # LUDA38
 Ludum Dare 38 public repository.
 
-Ludum Dare 38 Parameters:
+
+Ludum Dare 38 Parameters: --
+
   // ducks on a raft???
 
-Prerequisites
+
+Prerequisites --
+
   // Unity3d 
   // Aseprite,Photoshop ect...
   // Android iOS Mac PC 
   
-Installing
+  
+Installing --
+
   //  methods for installing a working develoment build.
   
-Debugging
+  
+Debugging --
+
   // Debug codes 
   // Test console?
+  
 
-Nomenclature 
+Nomenclature --
+
   // naming conventions and file structure
   
-Built With
+  
+Built With --
+
   // list all 3rd party plugins and assets
+
+
+Version --
+
+  // Reccomendations for versionControl?
   
-Version 
-  // Do we bother?
   
-Authors
+Authors --
+
   // Us but, with bullet points.
+  
+  
